@@ -1,0 +1,22 @@
+{
+    "name": "HugeWin",
+    "short_name": "HugeWin",
+    "description": "HugeWin — slot reviews & gameplay tips",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0d0d15",
+    "theme_color": "#d4a843",
+    "lang": "el",
+    "icons": [
+        {
+            "src": "/favicon.ico",
+            "sizes": "any",
+            "type": "image/x-icon"
+        },
+        {
+            "src": "/logo.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ]
+}
