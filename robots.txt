@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://starlight-princess-1000-hugewin.github.io/sitemap.xml
